@@ -1,5 +1,5 @@
 <?php
-$host = 'db4free.net:3306';
+$host = 'https://www.db4free.net/phpMyAdmin/';
 $username = 'wms2023';
 $password = 'Narfa2201$';
 $db = 'wms_alfa';
