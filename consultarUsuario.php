@@ -1,8 +1,8 @@
 <?php
-$host = "85.10.205.173:3306";
-$username = "wms2023";
-$password = "Narfa2201$";
-$db = "wms_alfa";
+$host = 'db4free.net:3306';
+$username = 'wms2023';
+$password = 'Narfa2201$';
+$db = 'wms_alfa';
 
 $connect = new mysqli($host,$username,$password,$db);
 
