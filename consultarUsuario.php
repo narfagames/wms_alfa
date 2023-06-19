@@ -1,5 +1,5 @@
 <?php
-$host = "db4free.net/wms_alfa";
+$host = "db4free.net:3306/wms_alfa";
 $username = "wms2023";
 $password = "Narfa2201$";
 $db = "wms_alfa";
